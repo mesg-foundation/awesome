@@ -17,10 +17,9 @@ List of Services and Applications developed with MESG
 
 ### NodeJS
 
-- [Devcon update on Slack](https://github.com/mesg-foundation/application-devcon-update-on-slack)
-
 ### Go
 
+- [Devcon update on Slack](https://github.com/mesg-foundation/application-devcon-update-on-slack)
 
 # Contribution
 
