@@ -6,12 +6,12 @@ List of Services and Applications developed with MESG
 
 ### NodeJS
 
-- [Slack](https://github.com/mesg-foundation/service-slack)
 - [JS Function](https://github.com/mesg-foundation/service-js-function)
-- [Ethereum](https://github.com/mesg-foundation/service-ethereum)
 
 ### Go
 
+- [Slack](https://github.com/mesg-foundation/service-slack)
+- [Ethereum](https://github.com/mesg-foundation/service-ethereum)
 
 ## Application
 
