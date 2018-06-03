@@ -4,20 +4,20 @@ List of Services and Applications developed with MESG
 
 ## Service
 
-### NodeJS
+### Blockchain
+
+- [Ethereum](https://github.com/mesg-foundation/service-ethereum)
+
+### Processing
 
 - [JS Function](https://github.com/mesg-foundation/service-js-function)
 
-### Go
+### Notification
 
+- [Devcon update](https://github.com/mesg-foundation/service-devcon-update)
 - [Slack](https://github.com/mesg-foundation/service-slack)
-- [Ethereum](https://github.com/mesg-foundation/service-ethereum)
 
 ## Application
-
-### NodeJS
-
-### Go
 
 - [Devcon update on Slack](https://github.com/mesg-foundation/application-devcon-update-on-slack)
 
