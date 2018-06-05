@@ -1,4 +1,6 @@
-# Awesome MESG
+![MESG core](https://cdn.rawgit.com/mesg-foundation/awesome-mesg/master/logo.svg)
+
+# [Website](https://mesg.tech/) - [Docs](https://docs.mesg.tech/) - [Chat](https://discordapp.com/invite/5tVTHJC)
 
 List of Services and Applications developed with MESG
 
