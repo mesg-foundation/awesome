@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://cdn.rawgit.com/mesg-foundation/awesome/79d12a8a/logo.svg" alt="MESG Awesome"
-       height="120"><br/>
-  List of Services and Applications developed with MESG
+  <img src="https://cdn.rawgit.com/mesg-foundation/awesome/79d12a8a/logo.svg" alt="MESG Awesome" height="120">
 </p>
 <h2 align="center">
   <a href="https://mesg.tech/">Website</a> - 
@@ -9,6 +7,8 @@
   <a href="https://medium.com/mesg">Blog</a> - 
   <a href="https://discordapp.com/invite/5tVTHJC">Discord</a>
 </h2>
+
+List of Services and Applications developed with MESG
 
 # Service
 
