@@ -1,4 +1,4 @@
-![MESG core](https://cdn.rawgit.com/mesg-foundation/awesome/8349cf4c/logo.svg)
+<p><img src="https://cdn.rawgit.com/mesg-foundation/awesome/79d12a8a/logo.svg" alt="MESG Awesome" style="max-width:100%;max-height:120px;"></p>
 
 # [Website](https://mesg.tech/) - [Docs](https://docs.mesg.tech/) - [Chat](https://discordapp.com/invite/5tVTHJC)
 
