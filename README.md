@@ -31,4 +31,4 @@ List of Services and Applications developed with MESG
 
 # Contribution
 
-Please add your awesome MESG's Service or Application by creating a [Pull Request](https://github.com/mesg-foundation/awesome/pulls)
+Please add your MESG Service or Application by creating a [Pull Request](https://github.com/mesg-foundation/awesome/pulls). We are excited to see what you create.
