@@ -1,4 +1,4 @@
-![MESG core](https://cdn.rawgit.com/mesg-foundation/awesome-mesg/8349cf4c/logo.svg)
+![MESG core](https://cdn.rawgit.com/mesg-foundation/awesome/8349cf4c/logo.svg)
 
 # [Website](https://mesg.tech/) - [Docs](https://docs.mesg.tech/) - [Chat](https://discordapp.com/invite/5tVTHJC)
 
@@ -25,4 +25,4 @@ List of Services and Applications developed with MESG
 
 # Contribution
 
-Please add your awesome MESG's Service or Application by creating a [Pull Request](https://github.com/mesg-foundation/awesome-mesg/pulls)
+Please add your awesome MESG's Service or Application by creating a [Pull Request](https://github.com/mesg-foundation/awesome/pulls)
