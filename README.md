@@ -10,7 +10,7 @@
 
 List of Services and Applications developed with MESG
 
-# Service
+# Services
 
 ## Blockchain
 
@@ -25,7 +25,7 @@ List of Services and Applications developed with MESG
 - [Devcon update](https://github.com/mesg-foundation/service-devcon-update)
 - [Slack](https://github.com/mesg-foundation/service-slack)
 
-# Application
+# Applications
 
 - [Devcon update on Slack](https://github.com/mesg-foundation/application-devcon-update-on-slack)
 
