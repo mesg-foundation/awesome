@@ -1,25 +1,30 @@
-<p><img src="https://cdn.rawgit.com/mesg-foundation/awesome/79d12a8a/logo.svg" alt="MESG Awesome" style="max-width:100%;max-height:120px;"></p>
+<p align="center">
+  <img src="https://cdn.rawgit.com/mesg-foundation/awesome/79d12a8a/logo.svg" alt="MESG Awesome"
+       height="120"><br/>
+  List of Services and Applications developed with MESG
+</p>
+<h2 align="center">
+  <a href="https://mesg.tech/">Website</a> - 
+  <a href="https://docs.mesg.tech/">Docs</a> - 
+  <a href="https://discordapp.com/invite/5tVTHJC">Discord</a>
+</h2>
 
-# [Website](https://mesg.tech/) - [Docs](https://docs.mesg.tech/) - [Chat](https://discordapp.com/invite/5tVTHJC)
+# Service
 
-List of Services and Applications developed with MESG
-
-## Service
-
-### Blockchain
+## Blockchain
 
 - [Ethereum](https://github.com/mesg-foundation/service-ethereum)
 
-### Processing
+## Processing
 
 - [JS Function](https://github.com/mesg-foundation/service-js-function)
 
-### Notification
+## Notification
 
 - [Devcon update](https://github.com/mesg-foundation/service-devcon-update)
 - [Slack](https://github.com/mesg-foundation/service-slack)
 
-## Application
+# Application
 
 - [Devcon update on Slack](https://github.com/mesg-foundation/application-devcon-update-on-slack)
 
