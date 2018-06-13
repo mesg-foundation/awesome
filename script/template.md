@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://cdn.rawgit.com/mesg-foundation/awesome/79d12a8a/logo.svg" alt="MESG Awesome" height="120">
+  <img src="https://cdn.rawgit.com/mesg-foundation/awesome/master/logo.svg" alt="MESG Awesome" height="120">
+  <br/><br/>
 </p>
-<h2 align="center">
-  <a href="https://mesg.tech/">Website</a> - 
-  <a href="https://docs.mesg.tech/">Docs</a> - 
-  <a href="https://medium.com/mesg">Blog</a> - 
-  <a href="https://discordapp.com/invite/5tVTHJC">Discord</a>
-</h2>
+
+[Website](https://mesg.com/) - [Docs](https://docs.mesg.com/) - [Chat](https://discordapp.com/invite/SaZ5HcE) - [Blog](https://medium.com/mesg)
 
 List of Services and Applications developed with MESG
 

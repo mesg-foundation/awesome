@@ -3,35 +3,35 @@
   "description": "MESG Service to invite users to join our discord",
   "url": "https://github.com/mesg-foundation/service-discord-invitation",
   "lang": "javascript",
-  "category": "notification"
+  "category": "Notification"
 }, {
   "name": "Webhook",
   "description": "Send and Receive Webhook through MESG",
   "url": "https://github.com/mesg-foundation/service-webhook",
   "lang": "javascript",
-  "category": "notification"
+  "category": "Notification"
 }, {
   "name": "Ethereum",
   "description": "Ethereum service for MESG",
   "url": "https://github.com/mesg-foundation/service-ethereum",
   "lang": "golang",
-  "category": "blockchain"
+  "category": "Blockchain"
 }, {
   "name": "JS function",
   "description": "MESG Service that execute a javascript function",
   "url": "https://github.com/mesg-foundation/service-js-function",
   "lang": "javascript",
-  "category": "processing"
+  "category": "Processing"
 }, {
   "name": "Slack",
   "description": "MESG service that permits to send a notification on Slack",
   "url": "https://github.com/mesg-foundation/service-slack",
   "lang": "javascript",
-  "category": "notification"
+  "category": "Notification"
 }, {
   "name": "Devcon update",
   "description": "MESG Service that notify when there is an update on the Devcon website",
   "url": "https://github.com/mesg-foundation/service-devcon-update",
   "lang": "golang",
-  "category": "notification"
+  "category": "Notification"
 }]

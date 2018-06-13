@@ -9,18 +9,18 @@ List of Services and Applications developed with MESG
 
 # Services
 
-## blockchain
+## Blockchain
 
 - [Ethereum](https://github.com/mesg-foundation/service-ethereum) - Ethereum service for MESG
 
-## notification
+## Notification
 
 - [MESG Discord Invitation](https://github.com/mesg-foundation/service-discord-invitation) - MESG Service to invite users to join our discord
 - [Webhook](https://github.com/mesg-foundation/service-webhook) - Send and Receive Webhook through MESG
 - [Slack](https://github.com/mesg-foundation/service-slack) - MESG service that permits to send a notification on Slack
 - [Devcon update](https://github.com/mesg-foundation/service-devcon-update) - MESG Service that notify when there is an update on the Devcon website
 
-## processing
+## Processing
 
 - [JS function](https://github.com/mesg-foundation/service-js-function) - MESG Service that execute a javascript function
 
