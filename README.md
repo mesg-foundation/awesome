@@ -11,6 +11,7 @@ List of Services and Applications developed with MESG
 
 ## Blockchain
 
+- [Ethereum ERC20](https://github.com/mesg-foundation/service-ethereum-erc20) - MESG Service to interact with an Ethereum ERC20 token
 - [Ethereum](https://github.com/mesg-foundation/service-ethereum) - Ethereum service for MESG
 
 ## Notification
