@@ -11,6 +11,12 @@
   "lang": "javascript",
   "category": "Notification"
 }, {
+  "name": "Ethereum ERC20",
+  "description": "MESG Service to interact with an Ethereum ERC20 token",
+  "url": "https://github.com/mesg-foundation/service-ethereum-erc20",
+  "lang": "javascript",
+  "category": "Blockchain"
+}, {
   "name": "Ethereum",
   "description": "Ethereum service for MESG",
   "url": "https://github.com/mesg-foundation/service-ethereum",
