@@ -19,6 +19,7 @@ List of Services and Applications developed with MESG
 - [Webhook](https://github.com/mesg-foundation/service-webhook) - Send and Receive Webhook through MESG
 - [Slack](https://github.com/mesg-foundation/service-slack) - MESG service that permits to send a notification on Slack
 - [Devcon update](https://github.com/mesg-foundation/service-devcon-update) - MESG Service that notify when there is an update on the Devcon website
+- [Email Sendgrid](https://github.com/mesg-foundation/service-email-sendgrid.git) - Send emails through Sendgrid API
 
 ## Processing
 

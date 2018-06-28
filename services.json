@@ -34,4 +34,10 @@
   "url": "https://github.com/mesg-foundation/service-devcon-update",
   "lang": "golang",
   "category": "Notification"
+}, {
+  "name": "Email Sendgrid",
+  "description": "Send emails through Sendgrid API",
+  "url": "https://github.com/mesg-foundation/service-email-sendgrid.git",
+  "lang": "javascript",
+  "category": "Notification"
 }]
