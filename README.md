@@ -32,31 +32,31 @@ List of Services and Applications developed with MESG
 
 # Contribution
 
-To add a new service: 
+**To add a new service:** 
 - Create a fork of the project
 - Generate the new readme with node script/generateReadme.md
 - Create a pull request with modifications
 
-To add a new application: 
+**To add a new application:** 
 - Fork of the project
 - Add your application in the applications.json file
 - Generate the new readme with node script/generateReadme.md
 - Create a pull request with modifications
 
-Want a new service created but don’t know how to code it? 
+**Want a new service created but don’t know how to code it?** 
 - Create a [new issue](https://github.com/mesg-foundation/awesome/issues/new)
 - Write the name of the service
 - Write a description of what the service will do
 - Describe why the service will be useful
 - Add the service label
 
-Unsure of where to start? 
+**Unsure of where to start?** 
 - Combine some of the existing services above to solve issues [found here](https://github.com/mesg-foundation/awesome/issues/new)
 
-Need more help? 
+**Need more help?** 
 - Join us on [Discord](https://discord.gg/SaZ5HcE) - we’re available to answer your questions
 - Check out how MESG works in the [documentation](https://docs.mesg.com)
 - To learn how to connect services and applications, use the [tutorials](https://tutorials.mesg.com)
 
-Found a bug? 
+**Found a bug?** 
 - For bugs related to Core, submit an issue [here](https://github.com/mesg-foundation/core/issues)
