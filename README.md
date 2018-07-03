@@ -44,7 +44,7 @@ To add a new application:
 - Create a pull request with modifications
 
 Want a new service created but don’t know how to code it? 
-- Create a [new issue] (https://github.com/mesg-foundation/awesome/issues/new)
+- Create a [new issue](https://github.com/mesg-foundation/awesome/issues/new)
 - Write the name of the service
 - Write a description of what the service will do
 - Describe why the service will be useful
