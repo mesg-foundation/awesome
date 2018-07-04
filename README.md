@@ -17,18 +17,18 @@ Awesome is a list of Services and Applications developed with MESG
 ## Notification
 
 - [MESG Discord Invitation](https://github.com/mesg-foundation/service-discord-invitation) - MESG Service to invite users to join our discord
-- [Webhook](https://github.com/mesg-foundation/service-webhook) - Send and Receive Webhook through MESG
+- [Webhook](https://github.com/mesg-foundation/service-webhook) - Send and Receive Webhooks through MESG
 - [Slack](https://github.com/mesg-foundation/service-slack) - MESG service that permits to send a notification on Slack
-- [Devcon update](https://github.com/mesg-foundation/service-devcon-update) - MESG Service that notify when there is an update on the Devcon website
+- [Devcon update](https://github.com/mesg-foundation/service-devcon-update) - MESG service that notify when there is an update on the Devcon website
 - [Email Sendgrid](https://github.com/mesg-foundation/service-email-sendgrid.git) - Send emails through Sendgrid's API
 
 ## Processing
 
-- [JS function](https://github.com/mesg-foundation/service-js-function) - MESG Service that executes a javascript function
+- [JS function](https://github.com/mesg-foundation/service-js-function) - MESG service that executes a javascript function
 
 # Applications
 
-- [Devcon update on Slack](https://github.com/mesg-foundation/application-devcon-update-on-slack) - MESG Application that sends a Slack notification when there is an update on the devcon website
+- [Devcon update on Slack](https://github.com/mesg-foundation/application-devcon-update-on-slack) - MESG application that sends a Slack notification when there is an update on the devcon website
 
 # Contribution
 
