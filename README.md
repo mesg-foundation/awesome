@@ -54,8 +54,7 @@ Awesome is a list of Services and Applications developed with MESG
 - **Bonus:** Come to our [Discord](https://discord.gg/SaZ5HcE) and share the issue with the rest of the community to try to find someone that might be interested in helping you make this
 
 ### Not so much the creative type and prefer to be a builder?
-- We need both! Check out this list of services that people need built and help others while adding value to the community.
-  [found here](https://github.com/mesg-foundation/awesome/issues?q=is%3Aissue+is%3Aopen+label%3Aservice)
+- We need both! Check out this [list of services](https://github.com/mesg-foundation/awesome/issues?q=is%3Aissue+is%3Aopen+label%3Aservice) that people need built and help others while adding value to the community.
 
 ### Need more help?
 - Join us on [Discord](https://discord.gg/SaZ5HcE) - we’re available to answer your questions
