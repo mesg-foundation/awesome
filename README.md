@@ -33,7 +33,7 @@ Awesome is a list of Services and Applications developed with MESG by the commun
 # Contribution
 
 ### To add a new service
-- [Edit the `service.json`](https://github.com/mesg-foundation/awesome/edit/master/service.json) file
+- [Edit the `services.json`](https://github.com/mesg-foundation/awesome/edit/master/services.json) file
 - Add the attributes `name`, `description`, `url`, `lang` and `category` of your service to the end of the file
 - Create a pull request with your modifications
 
