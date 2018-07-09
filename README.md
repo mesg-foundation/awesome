@@ -5,7 +5,7 @@
 
 [Website](https://mesg.com/) - [Docs](https://docs.mesg.com/) - [Chat](https://discordapp.com/invite/SaZ5HcE) - [Blog](https://medium.com/mesg)
 
-Awesome is a list of services and applications developed using MESG by the community. These are free to be shared and reused. 
+Awesome is a list of Services and Applications developed with MESG by the community.
 
 Now, building powerful applications can be as easy as connecting the existing services below.
 
@@ -15,24 +15,24 @@ Not sure how to get started? Begin with the [tutorials](https://tutorials.mesg.c
 
 ## Blockchain
 
-- [Ethereum ERC20](https://github.com/mesg-foundation/service-ethereum-erc20) - MESG service to interact with an Ethereum ERC20 token
+- [Ethereum ERC20](https://github.com/mesg-foundation/service-ethereum-erc20) - MESG Service to interact with an Ethereum ERC20 token
 - [Ethereum](https://github.com/mesg-foundation/service-ethereum) - Ethereum service for MESG
 
 ## Notification
 
-- [MESG Discord Invitation](https://github.com/mesg-foundation/service-discord-invitation) - MESG service to invite users to join our Discord
-- [Webhook](https://github.com/mesg-foundation/service-webhook) - Send and Receive a Webhook through MESG
-- [Slack](https://github.com/mesg-foundation/service-slack) - MESG service that sends a notification on Slack
-- [Devcon update](https://github.com/mesg-foundation/service-devcon-update) - MESG service that sends a notification when there is an update on the Devcon website
-- [Email Sendgrid](https://github.com/mesg-foundation/service-email-sendgrid.git) - Send emails through Sendgrid's API
+- [MESG Discord Invitation](https://github.com/mesg-foundation/service-discord-invitation) - MESG Service to invite users to join our discord
+- [Webhook](https://github.com/mesg-foundation/service-webhook) - Send and Receive Webhook through MESG
+- [Slack](https://github.com/mesg-foundation/service-slack) - MESG service that permits to send a notification on Slack
+- [Devcon update](https://github.com/mesg-foundation/service-devcon-update) - MESG Service that notify when there is an update on the Devcon website
+- [Email Sendgrid](https://github.com/mesg-foundation/service-email-sendgrid.git) - Send emails through Sendgrid API
 
 ## Processing
 
-- [JS function](https://github.com/mesg-foundation/service-js-function) - MESG Service that executes a Javascript function
+- [JS function](https://github.com/mesg-foundation/service-js-function) - MESG Service that execute a javascript function
 
 # Applications
 
-- [Devcon update on Slack](https://github.com/mesg-foundation/application-devcon-update-on-slack) - MESG Application that sends a Slack notification when there is an update on the Devcon website
+- [Devcon update on Slack](https://github.com/mesg-foundation/application-devcon-update-on-slack) - MESG Application that send a slack notification when there is an update on the devcon website
 
 # Contribution
 
