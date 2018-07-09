@@ -5,7 +5,11 @@
 
 [Website](https://mesg.com/) - [Docs](https://docs.mesg.com/) - [Chat](https://discordapp.com/invite/SaZ5HcE) - [Blog](https://medium.com/mesg)
 
-Awesome is a list of Services and Applications developed with MESG by the community.
+Awesome is a list of services and applications developed with MESG by the community. 
+
+MESG Awesome services and applications are free to reuse. Now, building powerful applications is just a matter of connecting  existing existing services below.
+
+Need help building new services? Start with the [tutorials](https://tutorials.mesg.com/). 
 
 # Services
 
