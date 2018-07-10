@@ -5,7 +5,7 @@
 
 [Website](https://mesg.com/) - [Docs](https://docs.mesg.com/) - [Chat](https://discordapp.com/invite/SaZ5HcE) - [Blog](https://medium.com/mesg)
 
-Awesome is a list of Services and Applications developed with MESG by the community.
+Awesome is a list of services and applications developed with MESG by the community.
 
 # Services
 
@@ -46,3 +46,6 @@ Awesome is a list of Services and Applications developed with MESG by the commun
 
 ### Found a bug?
 - For bugs related to Core, submit an issue on the [Core repository](https://github.com/mesg-foundation/core/issues)
+
+### New to Github? 
+- Our community follows the Github's Flow. Refer to [this guide](https://guides.github.com/introduction/flow/) to learn more about pull requests, commits, forking and merging.
