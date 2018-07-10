@@ -3,7 +3,7 @@ name: Service proposal
 about: You have an idea for a service and want to share it with the community
 ---
 
-### This is a proposal of a service. Feel free to contribute by sharing your feedbacks, implementing it and share it in this issue.
+### This is a proposal of a service. Feel free to contribute by sharing your feedbacks, implementing a part of it and share it here.
 
 # Description
 
@@ -13,7 +13,7 @@ Enter the description of the service.
 - What values it will bring to applications
 - What technologies it will use
 
-# Tasks propositions
+# Tasks suggestions
 
 ## Replace with the name of the first task
 
@@ -26,7 +26,7 @@ Enter here the description of the first task.
 
 ...
 
-# Events propositions
+# Events suggestions
 
 ## Replace with the name of the first event
 
