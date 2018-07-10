@@ -1,6 +1,6 @@
 [{
   "name": "Devcon update on Slack",
-  "description": "MESG Application that send a slack notification when there is an update on the devcon website",
+  "description": "MESG Application that sends a Slack notification when there is an update on the Devcon website",
   "url": "https://github.com/mesg-foundation/application-devcon-update-on-slack",
   "lang": "golang"
 }]
