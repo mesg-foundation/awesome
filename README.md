@@ -36,22 +36,21 @@ Not sure how to get started? Begin with the [tutorials](https://tutorials.mesg.c
 
 # Contribution
 
-### To add a new service
-- [Edit the `services.json`](https://github.com/mesg-foundation/awesome/edit/master/services.json) file
-- Add the attributes `name`, `description`, `url`, `lang` and `category` of your service to the end of the file
+### Share your Awesome MESG Service
+- [Edit the Readme](https://github.com/mesg-foundation/awesome/edit/master/README.md)
+- Add your service in the Service section under the right category (you can create a new category, please respect the alphabetical order)
+- Add a line with the following format `[Service Name](url_of_the_repository) - Description`
 - Create a pull request with your modifications
 
-### To add a new application
-- [Edit the `applications.json`](https://github.com/mesg-foundation/awesome/edit/master/applications.json) file
-- Add the attributes `name`, `description`, `url` and `lang` of your application to the end of the file
+### Share your Awesome MESG Application
+- [Edit the Readme](https://github.com/mesg-foundation/awesome/edit/master/README.md)
+- Add your application in the Applications section
+- Add a line with the following format `[Application Name](url_of_the_application) - Description`
 - Create a pull request with your modifications
 
 ### Want a new service created but don’t know how to code it?
-- Create a [new issue](https://github.com/mesg-foundation/awesome/issues/new)
-- Write the name of the service
-- Write a description of what the service will do. Try to be as precise as possible. Define the different tasks and events that this service needs to provide with the data that will be exposed
-- Describe why the service will be useful
-- Add the `service` label
+- Create a [new issue](https://github.com/mesg-foundation/awesome/issues/new?template=service.md&labels=service)
+- Fill the service informations
 - Submit your issue
 - **Bonus:** Join the [MESG Discord](https://discord.gg/SaZ5HcE) and share the issue with the rest of the community to find someone that might be interested
 
