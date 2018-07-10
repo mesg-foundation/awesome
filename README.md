@@ -49,9 +49,9 @@ Not sure how to get started? Begin with the [tutorials](https://tutorials.mesg.c
 - Create a pull request with your modifications
 
 ### Want a new service created but don’t know how to code it?
-- Create a [new issue](https://github.com/mesg-foundation/awesome/issues/new?template=service.md&labels=service)
+- Create a [new service proposal](https://github.com/mesg-foundation/awesome/issues/new?template=service.md&labels=service)
 - Fill the service informations
-- Submit your issue
+- Submit your proposal
 - **Bonus:** Join the [MESG Discord](https://discord.gg/SaZ5HcE) and share the issue with the rest of the community to find someone that might be interested
 
 ### Not so much the creative type and prefer to be a builder?
