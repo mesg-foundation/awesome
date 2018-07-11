@@ -1,6 +1,6 @@
 ---
-Name: Service Proposal
-About: Ideas for services to be shared with the community
+name: Service Proposal
+about: Ideas for services to be shared with the community
 ---
 
 ### This page is for the proposal of services. Feel free to contribute by sharing your feedback or implementing part of it and sharing it here.
