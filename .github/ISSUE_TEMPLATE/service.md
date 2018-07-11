@@ -1,23 +1,23 @@
 ---
-name: Service proposal
-about: You have an idea for a service and want to share it with the community
+Name: Service Proposal
+About: Ideas for services to be shared with the community
 ---
 
-### This is a proposal of a service. Feel free to contribute by sharing your feedbacks, implementing a part of it and share it here.
+### This page is for the proposal of services. Feel free to contribute by sharing your feedback or implementing parts of it and sharing it here.
 
 # Description
 
 Enter the description of the service.
-- Why it is useful
+- Why it's useful
 - What problem it solves
-- What values it will bring to applications
+- What value it will bring to applications
 - What technologies it will use
 
-# Tasks suggestions
+# Task suggestions
 
 ## Replace with the name of the first task
 
-Enter here the description of the first task.
+Enter the description of the first task here.
 - Describe what it should do
 - Describe its inputs
 - Describe its outputs
@@ -30,8 +30,8 @@ Enter here the description of the first task.
 
 ## Replace with the name of the first event
 
-Enter here the description of the first event.
-- Describe what the event is about
+Enter the description of the first event here.
+- Describe what the event is 
 - Describe its data
 
 ## Replace with the name of the second event
