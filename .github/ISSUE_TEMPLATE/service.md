@@ -1,9 +1,9 @@
 ---
 name: Service Proposal
-about: Ideas for services to be shared with the community
+about: Ideas for a service to be shared with the community
 ---
 
-### This issue is for the proposal of services. Feel free to contribute by sharing your feedback or implementing part of it and sharing it here.
+### This issue is for the proposal of a service. Feel free to contribute by sharing your feedback or implementing part of it and sharing it here.
 
 # Description
 
