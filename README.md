@@ -26,6 +26,10 @@ Not sure how to get started building with MESG? Begin with the [tutorials](https
 - [Devcon update](https://github.com/mesg-foundation/service-devcon-update) - MESG service that sends a notification when there is an update on the Devcon website
 - [Email Sendgrid](https://github.com/mesg-foundation/service-email-sendgrid.git) - Send emails through Sendgrid's API
 
+## Payment
+
+- [Stripe](https://github.com/mesg-foundation/service-stripe) - Easily charge customers through Stripe and get payment notifications in real time
+
 ## Processing
 
 - [JS function](https://github.com/mesg-foundation/service-js-function) - MESG service that executes a Javascript function
