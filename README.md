@@ -18,6 +18,10 @@ Not sure how to get started building with MESG? Begin with the [tutorials](https
 - [Ethereum ERC20](https://github.com/mesg-foundation/service-ethereum-erc20) - MESG service to interact with an Ethereum ERC20 token
 - [Ethereum](https://github.com/mesg-foundation/service-ethereum) - Ethereum service for MESG
 
+## Logging
+
+- [BlueLogger](https://github.com/ilgooz/service-bluelogger) - Log your data to standard output.
+
 ## Notification
 
 - [MESG Discord Invitation](https://github.com/mesg-foundation/service-discord-invitation) - MESG service to invite users to join the MESG Discord
