@@ -29,6 +29,7 @@ Not sure how to get started building with MESG? Begin with the [tutorials](https
 - [Slack](https://github.com/mesg-foundation/service-slack) - MESG service that sends a notification on Slack
 - [Devcon update](https://github.com/mesg-foundation/service-devcon-update) - MESG service that sends a notification when there is an update on the Devcon website
 - [Email Sendgrid](https://github.com/mesg-foundation/service-email-sendgrid.git) - Send emails through Sendgrid's API
+- [MESG Pusher](https://github.com/Roms1383/mesg-pusher.git) - Send notifications through Pusher's API
 
 ## Payment
 
