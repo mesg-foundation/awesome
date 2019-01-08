@@ -1,6 +1,6 @@
 [Website](https://mesg.com/) - [Docs](https://docs.mesg.com/) - [Forum](https://forum.mesg.com) - [Chat](https://discordapp.com/invite/SaZ5HcE) - [Blog](https://medium.com/mesg)
 
-Welcome to Awesome MESG! 
+Welcome to MESG! 
 
 Here you will find a list of services developed by the community using MESG. All of the services in this Awesome list can be reused to create new applications and solutions. Now, building powerful applications can be as easy as connecting the existing services below.
 
