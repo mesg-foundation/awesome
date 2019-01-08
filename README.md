@@ -1,13 +1,8 @@
-<p align="center">
-  <img src="https://cdn.rawgit.com/mesg-foundation/awesome/master/logo.svg" alt="MESG Awesome" height="120">
-  <br/><br/>
-</p>
-
 [Website](https://mesg.com/) - [Docs](https://docs.mesg.com/) - [Forum](https://forum.mesg.com) - [Chat](https://discordapp.com/invite/SaZ5HcE) - [Blog](https://medium.com/mesg)
 
 Welcome to Awesome MESG! 
 
-Here you will find a list of services and applications developed by the community using MESG. All of the services in this Awesome list can be reused to create new applications and solutions. Now, building powerful applications can be as easy as connecting the existing services below.
+Here you will find a list of services developed by the community using MESG. All of the services in this Awesome list can be reused to create new applications and solutions. Now, building powerful applications can be as easy as connecting the existing services below.
 
 Not sure how to get started building with MESG? Begin with the [tutorials](https://tutorials.mesg.com/), or use the contribution guide below.
 
@@ -43,22 +38,12 @@ Not sure how to get started building with MESG? Begin with the [tutorials](https
 
 - [JS function](https://github.com/mesg-foundation/service-js-function) - MESG service that executes a Javascript function
 
-# Applications
-
-- [Devcon update on Slack](https://github.com/mesg-foundation/application-devcon-update-on-slack) - MESG application that sends a Slack notification when there is an update on the Devcon website
-
 # Contribution
 
 ### Share your Awesome MESG service
 - [Edit the Readme](https://github.com/mesg-foundation/awesome/edit/master/README.md)
 - Add your service in the "Service" section under the appropriate category (you can create a new category, please respect the alphabetical order)
 - Add a line with the following format `[Service Name](url_of_the_repository) - Description`
-- Create a pull request with your modifications
-
-### Share your Awesome MESG application
-- [Edit the Readme](https://github.com/mesg-foundation/awesome/edit/master/README.md)
-- Add your application in the "Applications" section
-- Add a line with the following format `[Application Name](url_of_the_application) - Description`
 - Create a pull request with your modifications
 
 ### Want a new service created but don’t know how to code it?
