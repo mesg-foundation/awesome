@@ -4,7 +4,7 @@ Welcome to MESG!
 
 Here you will find a list of services developed by the community using MESG. All of the services in this Awesome list can be reused to create new applications and solutions. Now, building powerful applications can be as easy as connecting the existing services below.
 
-Not sure how to get started building with MESG? Begin with the [tutorials](https://tutorials.mesg.com/), or use the contribution guide below.
+Not sure how to get started building with MESG? Begin with the [tutorials](https://docs.mesg.com/tutorials/), or use the contribution guide below.
 
 # Services
 
@@ -59,7 +59,7 @@ Not sure how to get started building with MESG? Begin with the [tutorials](https
 ### Need more help?
 - Join the [MESG Discord](https://discord.gg/SaZ5HcE) - we’re available to answer your questions
 - Check out the [MESG documentation](https://docs.mesg.com)
-- Learn how to connect services and applications by following the [tutorials](https://tutorials.mesg.com)
+- Learn how to connect services and applications by following the [tutorials](https://docs.mesg.com/tutorials)
 
 ### Found a bug?
 - For bugs related to Core, submit an issue on the [Core repository](https://github.com/mesg-foundation/core/issues)
