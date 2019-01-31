@@ -4,7 +4,7 @@ Welcome to MESG!
 
 Here you will find a list of services developed by the community using MESG. All of the services in this Awesome list can be reused to create new applications and solutions. Now, building powerful applications can be as easy as connecting the existing services below.
 
-Not sure how to get started building with MESG? Begin with the [tutorials](https://docs.mesg.com/tutorials/), or use the contribution guide below.
+Not sure how to get started building with MESG? Begin with the [docs](https://docs.mesg.com) and [tutorials](https://docs.mesg.com/tutorials/), or use the contribution guide below.
 
 # Services
 
