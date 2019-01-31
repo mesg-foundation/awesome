@@ -57,6 +57,7 @@ Not sure how to get started building with MESG? Begin with the [tutorials](https
 - Check out the [list of services](https://github.com/mesg-foundation/awesome/issues?q=is%3Aissue+is%3Aopen+label%3Aservice) that the community would like created and needs help with
 
 ### Need more help?
+- Join the [MESG Forum](https://forum.mesg.com)
 - Join the [MESG Discord](https://discord.gg/SaZ5HcE) - we’re available to answer your questions
 - Check out the [MESG documentation](https://docs.mesg.com)
 - Learn how to connect services and applications by following the [tutorials](https://docs.mesg.com/tutorials)
