@@ -51,7 +51,7 @@ Not sure how to get started building with MESG? Begin with the [tutorials](https
 - Create a [new service proposal](https://github.com/mesg-foundation/awesome/issues/new?template=service.md&labels=service)
 - Fill in the service's information
 - Submit your proposal
-- **Bonus:** Join the [MESG Discord](https://discord.gg/SaZ5HcE) and share the issue with the rest of the community to find someone that might be interested in using it
+- **Bonus:** Join the [MESG Forum](https://forum.mesg.com) and share the issue with the rest of the community to find someone that might be interested in using it
 
 ### Not so much the creative type and prefer to be a builder?
 - Check out the [list of services](https://github.com/mesg-foundation/awesome/issues?q=is%3Aissue+is%3Aopen+label%3Aservice) that the community would like created and needs help with
