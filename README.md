@@ -38,6 +38,7 @@ Not sure how to get started building with MESG? Begin with the [docs](https://do
 ## Processing
 
 - [JS function](https://github.com/mesg-foundation/service-js-function) - MESG service that executes a Javascript function
+- [Encryption](https://github.com/antho1404/mesg-service-encryption) - Service to encrypt/decrypt data
 
 # Contribution
 
