@@ -12,6 +12,7 @@ Not sure how to get started building with MESG? Begin with the [docs](https://do
 
 - [Ethereum ERC20](https://github.com/mesg-foundation/service-ethereum-erc20) - MESG service to interact with an Ethereum ERC20 token
 - [Ethereum](https://github.com/mesg-foundation/service-ethereum) - Ethereum service for MESG
+- [IOTA API](https://github.com/MykolaSauliak/iotaMesgExplorer) - IOTA client to send and read transaction
 
 ## Location
 
