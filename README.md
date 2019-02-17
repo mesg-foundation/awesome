@@ -43,6 +43,8 @@ Not sure how to get started building with MESG? Begin with the [docs](https://do
 ## Database
 
 - [InfluxDB](https://github.com/mesg-foundation/service-influxdb) Influx DB service with Grafana
+- [MongoDB](https://github.com/emrekeskinmac/mongodb-service) - MongoDB is a NOSQL Database
+
 
 # Contribution
 
