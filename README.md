@@ -30,10 +30,12 @@ Not sure how to get started building with MESG? Begin with the [docs](https://do
 - [Email Sendgrid](https://github.com/mesg-foundation/service-email-sendgrid.git) - Send emails through Sendgrid's API
 - [MESG Pusher](https://github.com/Roms1383/mesg-pusher.git) - Send notifications through Pusher's API
 - [Sms Twilio](https://github.com/emrekeskinmac/service-sms-twilio) - Send Sms through Twilio's API
+- [Blockstream Satellite](https://github.com/RyanMilb/service-satellite-broadcast/) - Send a message from space with blockstream.
 
 ## Payment
 
 - [Stripe](https://github.com/mesg-foundation/service-stripe) - Easily charge customers through Stripe and get payment notifications in real time
+- [Lightning Network](https://github.com/RyanMilb/service-lightning) - Easily pay lightning network invoices using the opennode.co api. Warning: Custodial Solution!
 
 ## Processing
 
