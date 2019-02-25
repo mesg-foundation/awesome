@@ -13,6 +13,11 @@ Not sure how to get started building with MESG? Begin with the [docs](https://do
 - [Ethereum ERC20](https://github.com/mesg-foundation/service-ethereum-erc20) - MESG service to interact with an Ethereum ERC20 token
 - [Ethereum](https://github.com/mesg-foundation/service-ethereum) - Ethereum service for MESG
 
+## Data Manipulation
+
+- [GraphQL Fields to Mongo Selections](https://github.com/ilgooz/service-graphql-fields-to-mongo-selections) - Convert GraphQL fields to MongoDB field selections
+- [Objects](https://github.com/ilgooz/service-objects) - Manipulate and create data objects
+
 ## Location
 
 - [Location](https://github.com/ilgooz/service-location) - Find locations of IP addresses.
@@ -45,8 +50,14 @@ Not sure how to get started building with MESG? Begin with the [docs](https://do
 ## Database
 
 - [InfluxDB](https://github.com/mesg-foundation/service-influxdb) Influx DB service with Grafana
+- [Mongo](https://github.com/ilgooz/service-mongo) - Interact with MongoDB
 - [MongoDB](https://github.com/emrekeskinmac/mongodb-service) - MongoDB is a NOSQL Database
 
+## WWW
+
+- [GraphQL](https://github.com/ilgooz/service-graphql) - GraphQL server
+- [GraphQL Introspection](https://github.com/ilgooz/service-graphql-introspection) - Generate API definition of GraphQL Schema for GraphQL Introspection queries
+- [HTTP Server](https://github.com/ilgooz/service-http-server) - A modern HTTP server with caching support
 
 # Contribution
 
